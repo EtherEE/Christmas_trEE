@@ -17,6 +17,7 @@ Add more general information about project. What the purpose of the project is? 
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
+![Diagram](./Diagram.drawio)
 
 ## Technologies
 * Tech 1 - version 1.0
