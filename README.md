@@ -3,11 +3,11 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
+* [Topology](#screenshots)
 * [Technologies](#technologies)
 * [Principle of operation](Principle-of-operation)
 * [Setup](#setup)
-* [Features](#features)
+* [Main components selection](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -38,8 +38,11 @@ Describe how to install / setup your local environement / add link to demo versi
   Quick charging: 0,5C = 600mA @4,2V
   Dimensions: length：42.5mm Max, width： 35.0mm Max, thickness: 9.3mm Max
 * DC/DC converter
-  MCP1601-I/MS; Input voltage 2,7-5,5V; Output voltage 0,8-5V
-* ss
+  MCP1601-I/MS; Input voltage 2,7-5,5V; Output voltage 0,8-5V. Chip is not needed but good to have as an additional protection for expensive LED module.
+  One mode of operation (LDO mode) occurs when the input voltage approaches the output voltage and the BUCK duty cycle approaches 100%. The MCP1601 will enter a low drop out mode and the high-side P-Channel BUCK switch will saturate, providing the output with the maximum voltage possible. 
+* LED driver
+  MIC4801YM; SO8; 600mA; 0÷5,5V; Ch: 1; 3÷5,5VDC; It features a typical dropout of 50mV at 150mA, LED voltage: 0-Vin
+* Touch sensor
 
 ## Features
 List of features ready and TODOs for future development
