@@ -31,6 +31,8 @@ The system consists of the following electrical blocks:
 Describe how to install / setup your local environement / add link to demo version.
 
 ## Main components selection
+* LED module
+  1330.0002; White; 1W; 3,3V; 150mA; Imax=300mA;
 * Battery
   LP883440; Li-Po; 3,7V; 1200mAh. The battery has built in overcharging, overdischarging and over current protection mechnisms.
   Quick charging: 0,5C = 600mA @4,2V
