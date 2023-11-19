@@ -25,26 +25,17 @@ Add more general information about project. What the purpose of the project is? 
 
 ## Principle of operation
 The system consists of the following electrical blocks:
-Microcontroller board with TFT display
-H-brigdes block
-Battery with protection against excessive discharge
-Reverse polarity protection
-Step-down converter
-
-To protect battery from over-discharge simple elecronic circuit was used.
-
-All important components have been especjally selected to achieve minimal current leakage during low voltage state in battery. The principle of operation is simple. If the input voltage (on battery connectors) exceeds fixed value, then the load is switched on, while if it falls below this value, the load is disconnected. When the voltage is within the designated "bands", the state of the output is maintained.
-
-
-This device contains one P-channel high-side MOSFET and one N-channel low-side MOSFET with an integrateddriver IC in one package. The Industrial & Multipurpose NovalithIC™ IFX007T is the interface between themicrocontroller and the motor, equipped with diagnostic and protection functions
 
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+## Main components selection
+* Battery
+  LP883440; Li-Po; 3,7V; 1200mAh. The battery has built in overcharging, overdischarging and over current protection mechnisms.
+  Quick charging: 0,5C = 600mA @4,2V
+  Dimensions: length：42.5mm Max, width： 35.0mm Max, thickness: 9.3mm Max
+* 
 
 ## Features
 List of features ready and TODOs for future development
@@ -63,4 +54,4 @@ Project is: _in progress_, _finished_, _no longer continue_ and why?
 Add here credits. Project inspired by..., based on...
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by ... - feel free to contact me!
