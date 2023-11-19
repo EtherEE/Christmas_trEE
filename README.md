@@ -41,6 +41,8 @@ Describe how to install / setup your local environement / add link to demo versi
 * LED driver
   MIC4801YM; SO8; 600mA; 0÷5,5V; Ch: 1; 3÷5,5VDC; It features a typical dropout of 50mV at 150mA, LED voltage: 0-Vin
 * Touch sensor
+* Battery charger
+  MCP73831T-2ACI/OT; Supply voltage: 3,75 - 6V; 4,2V output voltage model; Programmable charge current: 15mA - 500mA;  
 
 ## Features
 List of features ready and TODOs for future development
