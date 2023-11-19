@@ -37,7 +37,9 @@ Describe how to install / setup your local environement / add link to demo versi
   LP883440; Li-Po; 3,7V; 1200mAh. The battery has built in overcharging, overdischarging and over current protection mechnisms.
   Quick charging: 0,5C = 600mA @4,2V
   Dimensions: length：42.5mm Max, width： 35.0mm Max, thickness: 9.3mm Max
-* 
+* DC/DC converter
+  MCP1601-I/MS; Input voltage 2,7-5,5V; Output voltage 0,8-5V
+* ss
 
 ## Features
 List of features ready and TODOs for future development
