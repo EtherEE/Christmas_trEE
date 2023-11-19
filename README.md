@@ -13,19 +13,17 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+Luminous Christmas tree-shaped light controlled by touch. The lamp uses a side-lit fiber optic as the luminous element. The light source is an LED module in white color. LED modules in red, green, blue are also available. Changing the LED module will require setting a different supply voltage on the DC/DC inverter and current verification.
 
 ## Topology
 ![Diagram](./Diagram.drawio.svg)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Main luminous technology: MENTOR M-FIBRE
+* KiCAD as an EDA
 
 ## Principle of operation
 The system consists of the following electrical blocks:
-
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
