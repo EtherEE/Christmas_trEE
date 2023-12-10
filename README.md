@@ -1,5 +1,5 @@
 # Christmas_trEE
-> Christmas tree prepared for a child's school Christmas market.
+> Christmas tree lamp prepared for a child's school Christmas market.
 
 ## Table of contents
 * [General info](#general-info)
