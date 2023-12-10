@@ -5,7 +5,7 @@
 * [General info](#general-info)
 * [Topology](#screenshots)
 * [Technologies](#technologies)
-* [Principle of operation](Principle-of-operation)
+* [PCB](pcb)
 * [Setup](#setup)
 * [Main components selection](#features)
 * [Status](#status)
@@ -19,18 +19,19 @@ Luminous Christmas tree-shaped light controlled by touch. The lamp uses a side-l
 ![Diagram](./Diagram.drawio.svg)
 
 ## Technologies
-* Main luminous technology: MENTOR M-FIBRE
+* Main luminous technology: Mentor M-FIBRE
 * KiCAD as an EDA
 
-## Principle of operation
-Battery charging from USB type C socket with 500mA current, set with PROG resistor R2 of 2k
+## PCB
+![PCB](./Documentation/Images/PCB.bmp)
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+Battery charging from USB type C socket with 500mA current set with PROG resistor R2 of 2k.
+Sensor touch/proximity sensitivity adjustable with capacitor C7
 
 ## Main components selection
 * LED module
-  1330.0002; White; 1W; 3,3V; 150mA; Imax=300mA;
+  Mentor 1330.0002; White; 1W; 3,3V; 150mA; Imax=300mA;
 * Battery
   LP883440; Li-Po; 3,7V; 1200mAh. The battery has built in overcharging, overdischarging and over current protection mechnisms.
   Quick charging: 0,5C = 600mA @4,2V
