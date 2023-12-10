@@ -23,7 +23,7 @@ Luminous Christmas tree-shaped light controlled by touch. The lamp uses a side-l
 * KiCAD as an EDA
 
 ## PCB
-![PCB](./Documentation/Images/PCB.bmp)
+![PCB](./Documentation/Images/Top.png)
 
 ## Setup
 Battery charging from USB type C socket with 500mA current set with PROG resistor R2 of 2k.
