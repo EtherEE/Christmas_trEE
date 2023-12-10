@@ -1,4 +1,4 @@
-# Christmas_trEE
+# Christmas tree lamp
 > Christmas tree lamp prepared for a child's school Christmas market.
 
 ## Table of contents
