@@ -16,7 +16,7 @@
 Luminous Christmas tree-shaped light controlled by touch. The lamp uses a side-lit fiber optic as the luminous element. The light source is an LED module in white color. LED modules in red, green, blue are also available. Changing the LED module will require setting a different supply voltage on the DC/DC inverter and current verification.
 
 ## Topology
-![Diagram](./Diagram.drawio.svg)
+![Diagram](./Documentation/Images/Diagram.drawio.svg)
 
 ## Technologies
 * Main luminous technology: Mentor M-FIBRE
