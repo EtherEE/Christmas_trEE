@@ -3,11 +3,11 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Topology](#screenshots)
+* [Topology](#topology)
 * [Technologies](#technologies)
-* [PCB](pcb)
+* [PCB](#pcb)
 * [Setup](#setup)
-* [Main components selection](#features)
+* [Main components selection](#main-components-selection)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
