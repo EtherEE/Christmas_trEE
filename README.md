@@ -3,6 +3,8 @@
 
 ![Lamp](./Documentation/Images/Christmas_tree_lamp.jpg)
 
+![Movie](./Documentation/Images/Proximity.mp4)
+
 ## Table of contents
 * [General info](#general-info)
 * [Topology](#topology)
