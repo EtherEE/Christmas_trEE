@@ -1,5 +1,6 @@
 # Christmas tree lamp
 > Christmas tree lamp prepared for a child's school Christmas market.
+
 ![Lamp](./Documentation/Images/Christmas_tree_lamp.jpg)
 
 ## Table of contents
