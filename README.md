@@ -17,6 +17,7 @@
 
 ## General info
 Luminous Christmas tree-shaped light controlled by touch/proximity. The lamp uses a side-lit fiber optic as the luminous element. The light source is an LED module in white color. LED modules in red, green, blue are also available. Changing the LED module will require setting a different supply voltage on the DC/DC inverter and current verification. The lamp is powered by a battery. The capacity of the battery is sufficient to power the lamp through the night. The battery is charged via a USB type C port. The maximum total current of charging and lighting does not exceed 1 A. When the battery is charging, the D2 LED is lit, which produces a blue glow under the base of the lamp. The skeleton of the lamp and the embedding of the side-lighting fiber on it is a matter of individual taste. This is the most difficult part of the project and its execution directly affects the final result. I built the skeleton from stiff cardboard reinforced with wikol glue and wrapped the skeleton with white yarn. I mounted the LED module on plastic flat bars and glued them with hot glue to the inner parts of the skeleton.
+Base width: 14 cm. The height of the lamp is 33 cm. 
 
 ## Topology
 ![Diagram](./Documentation/Images/Diagram.drawio.svg)
